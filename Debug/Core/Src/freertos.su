@@ -1,5 +1,0 @@
-../Core/Src/freertos.c:96:6:MX_FREERTOS_Init	8	static
-../Core/Src/freertos.c:147:6:StartLED0A	16	static
-../Core/Src/freertos.c:166:6:StartLED0B	16	static
-../Core/Src/freertos.c:185:6:StartLED1A	16	static
-../Core/Src/freertos.c:204:6:StartLED1B	16	static
